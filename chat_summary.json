@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the button to be placed within the app?\", \"option1\": \"On the main screen\", \"option2\": \"Within a specific section or page\"}, {\"question 2\": \"What function should the button perform when clicked?\", \"option1\": \"Take the user to another page\", \"option2\": \"Trigger a specific action (e.g., submit a form, open a modal)\"}], \"input_token_count\": 255, \"output_token_count\": 98, \"time_taken\": \"0:00:11.341872\"}",
         "timestamp": "29072024093924",
         "message_id": "guest29072024093911"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Animated button feedback (e.g., change color or animate on click)\", \"checked\": true}, {\"feature\": \"Floating action button for quick actions\", \"checked\": false}, {\"feature\": \"Customizable button shapes and shadow effects\", \"checked\": false}, {\"feature\": \"Button with icon and text for clearer action indication\", \"checked\": true}, {\"feature\": \"Toggle button for on/off settings\", \"checked\": false}, {\"feature\": \"Social media sign-in button integration\", \"checked\": false}], \"input_token_count\": 209, \"output_token_count\": 120, \"time_taken\": \"0:00:13.456802\"}",
+        "timestamp": "29072024093926",
+        "message_id": "guest29072024093911"
     }
 ]
