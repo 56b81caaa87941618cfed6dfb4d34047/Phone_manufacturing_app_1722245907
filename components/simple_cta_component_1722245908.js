@@ -13,8 +13,9 @@ Vue.component("simple_cta_component_1722245908", {
                     <p id="cta-subtitle" class="flex-1 mb-6 font-light text-gray-500 dark:text-gray-400 md:text-lg">Unlock the power to design and customize your dream smartphone.</p>
                 </div>
                 
-                <div id="cta-button-container" class="flex">
+                <div id="cta-button-container" class="flex space-x-4">
                     <a id="cta-button" href="#" class="flex-1 text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 focus:outline-none dark:focus:ring-purple-800">Start Building Now</a>
+                    <a id="cta-button-2" href="#" class="flex-1 text-purple-700 bg-white hover:bg-gray-100 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 border border-purple-700 focus:outline-none">Learn More</a>
                 </div>
             </div>
         </div>
