@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the button to be placed within the app?\", \"option1\": \"On the main screen\", \"option2\": \"Within a specific section or page\"}, {\"question 2\": \"What function should the button perform when clicked?\", \"option1\": \"Take the user to another page\", \"option2\": \"Trigger a specific action (e.g., submit a form, open a modal)\"}], \"input_token_count\": 255, \"output_token_count\": 98, \"time_taken\": \"0:00:11.341872\"}",
+        "message_id": "guest29072024093911",
+        "timestamp": "29072024093924",
+        "component_file_name": "simple_cta_component_1722245908",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Acknowledged, working on adding the button.",
         "message_id": "guest29072024093911",
